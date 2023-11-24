@@ -24,7 +24,7 @@ if __name__ == "__main__":
     num2 = 5
     
     # Вызов функций и вывод результатов
-    print("Сложение:", add_numbers_2(num1, num2))
+    print("Сложение:", add_numbers_3(num1, num2))
     print("Вычитание:", subtract_numbers(num1, num2))
     print("Умножение:", multiply_numbers_2(num1, num2))
     print("Деление:", divide_numbers(num1, num2))
