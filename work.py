@@ -7,8 +7,8 @@ def subtract_numbers(a, b):
     return a - b
 
 # Функция для умножения двух чисел
-def multiply_numbers(a, b):
-    return a * b
+def multiply_numbers_2(a, b):
+    return 2 * a * b
 
 # Функция для деления двух чисел
 def divide_numbers(a, b):
