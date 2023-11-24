@@ -4,7 +4,7 @@ def add_numbers_3(a, b):
 
 # Функция для вычитания двух чисел
 def subtract_numbers(a, b):
-    return a - b
+    return a - b - 5
 
 # Функция для умножения двух чисел
 def multiply_numbers_2(a, b):
@@ -13,7 +13,7 @@ def multiply_numbers_2(a, b):
 # Функция для деления двух чисел
 def divide_numbers(a, b):
     if b != 0:
-        return a / b
+        return a / b  + 1000
     else:
         return "На ноль делить нельзя!"
 
@@ -21,7 +21,8 @@ def divide_numbers(a, b):
 if __name__ == "__main__":
 
     num1 = 15
-    num2 = 566666
+    num2 = 5777
+
     
     # Вызов функций и вывод результатов
     print("Сложение:", add_numbers_3(num1, num2))
