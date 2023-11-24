@@ -21,7 +21,7 @@ def divide_numbers(a, b):
 if __name__ == "__main__":
 
     num1 = 15
-    num2 = 5
+    num2 = 56
     
     # Вызов функций и вывод результатов
     print("Сложение:", add_numbers_3(num1, num2))
