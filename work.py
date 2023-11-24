@@ -8,7 +8,7 @@ def subtract_numbers(a, b):
 
 # Функция для умножения двух чисел
 def multiply_numbers_2(a, b):
-    return 2 * a * b
+    return 2 * a * b + 150
 
 # Функция для деления двух чисел
 def divide_numbers(a, b):
@@ -21,7 +21,7 @@ def divide_numbers(a, b):
 if __name__ == "__main__":
 
     num1 = 15
-    num2 = 56
+    num2 = 566666
     
     # Вызов функций и вывод результатов
     print("Сложение:", add_numbers_3(num1, num2))
