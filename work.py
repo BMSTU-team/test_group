@@ -1,6 +1,6 @@
 # Функция для сложения двух чисел
 def add_numbers_3(a, b):
-    return a + b + 3
+    return a + b + 5
 
 # Функция для вычитания двух чисел
 def subtract_numbers(a, b):
