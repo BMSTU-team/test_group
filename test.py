@@ -1,6 +1,7 @@
 # Тесты для калькулятора
 
 import pytest
+
 from calc import add, subtract, multiply, divide
 
 def test_add():

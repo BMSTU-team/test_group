@@ -14,6 +14,8 @@ def multiply_numbers_2(a, b):
 def divide_numbers(a, b):
     if b != 0:
         return a / b  + 1000
+    else:
+        return "На ноль делить нельзя!"
 
 
 # Запуск функций
