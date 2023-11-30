@@ -17,6 +17,7 @@ def divide_numbers(a, b):
     else:
         return "На ноль делить нельзя!"
 
+
 # Запуск функций
 if __name__ == "__main__":
 
