@@ -6,7 +6,7 @@ def add(x, y):
 
 def subtract(x, y):
     """Вычитание одного числа из другого"""
-    return x - y
+    return float(x) - float(y)
 
 def multiply(x, y):
     """Умножение двух чисел"""
