@@ -1,4 +1,4 @@
-# For test purposes of GitHub
+# For GitHub testing purposes
 
 [![Tests](https://github.com/BMSTU-team/test_group/actions/workflows/testing.yaml/badge.svg)](https://github.com/BMSTU-team/test_group/actions/workflows/testing.yaml)
 
