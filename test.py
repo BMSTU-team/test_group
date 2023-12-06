@@ -8,7 +8,9 @@ def test_add():
     assert add(10, 5) == 15
     assert add(-1, 1) == 0
     assert add(-1, -1) == -2
-    #assert add('-1', -1) == -2
+    assert add('-1', -1) == -2
+    assert add('-1', '-1') == -2
+
     
 
 def test_subtract():

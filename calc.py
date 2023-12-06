@@ -2,7 +2,7 @@
 
 def add(x, y):
     """Сложение двух чисел"""
-    return x + y
+    return int(x) + int(y)
 
 def subtract(x, y):
     """Вычитание одного числа из другого"""
